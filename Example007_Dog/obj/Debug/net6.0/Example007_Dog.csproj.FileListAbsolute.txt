@@ -1,0 +1,15 @@
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\bin\Debug\net6.0\Example007_Dog.exe
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\bin\Debug\net6.0\Example007_Dog.deps.json
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\bin\Debug\net6.0\Example007_Dog.runtimeconfig.json
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\bin\Debug\net6.0\Example007_Dog.dll
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\bin\Debug\net6.0\Example007_Dog.pdb
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\obj\Debug\net6.0\Example007_Dog.csproj.AssemblyReference.cache
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\obj\Debug\net6.0\Example007_Dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\obj\Debug\net6.0\Example007_Dog.AssemblyInfoInputs.cache
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\obj\Debug\net6.0\Example007_Dog.AssemblyInfo.cs
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\obj\Debug\net6.0\Example007_Dog.csproj.CoreCompileInputs.cache
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\obj\Debug\net6.0\Example007_Dog.dll
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\obj\Debug\net6.0\refint\Example007_Dog.dll
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\obj\Debug\net6.0\Example007_Dog.pdb
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\obj\Debug\net6.0\Example007_Dog.genruntimeconfig.cache
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example007_Dog\obj\Debug\net6.0\ref\Example007_Dog.dll
