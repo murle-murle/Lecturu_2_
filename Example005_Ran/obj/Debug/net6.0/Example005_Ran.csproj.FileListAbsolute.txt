@@ -1,0 +1,15 @@
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\bin\Debug\net6.0\Example005_Ran.exe
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\bin\Debug\net6.0\Example005_Ran.deps.json
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\bin\Debug\net6.0\Example005_Ran.runtimeconfig.json
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\bin\Debug\net6.0\Example005_Ran.dll
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\bin\Debug\net6.0\Example005_Ran.pdb
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\obj\Debug\net6.0\Example005_Ran.csproj.AssemblyReference.cache
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\obj\Debug\net6.0\Example005_Ran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\obj\Debug\net6.0\Example005_Ran.AssemblyInfoInputs.cache
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\obj\Debug\net6.0\Example005_Ran.AssemblyInfo.cs
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\obj\Debug\net6.0\Example005_Ran.csproj.CoreCompileInputs.cache
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\obj\Debug\net6.0\Example005_Ran.dll
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\obj\Debug\net6.0\refint\Example005_Ran.dll
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\obj\Debug\net6.0\Example005_Ran.pdb
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\obj\Debug\net6.0\Example005_Ran.genruntimeconfig.cache
+C:\Users\alfao\OneDrive\Рабочий стол\Lecture\Example005_Ran\obj\Debug\net6.0\ref\Example005_Ran.dll
